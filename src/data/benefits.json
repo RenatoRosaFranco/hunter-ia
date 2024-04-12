@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "icon": "",
+    "name": "Atraia os melhores",
+    "description": "Hunting está em nosso DNA"
+  },
+  {
+    "id":  2,
+    "icon": "",
+    "name": "Ganhe Tempo",
+    "description": "Reduza o tempo que você leva para contratar"
+  },
+  {
+    "id": 3,
+    "icon": "",
+    "name": "Menos Entrevistas",
+    "description": "Não perca mais tempo com entrevistas desnecessárias."
+  },
+  {
+    "id": 4,
+    "icon": "",
+    "name": "Garantia de Qualidade",
+    "description": "Garantimos a entrega de candidatos com perfil alinhado com suas expectativas."
+  },
+  {
+    "id": 5,
+    "icon": "",
+    "name": "Seleção Ágil",
+    "description": "A Inteligencia artificial nos ajuda a entregar mais em menos tempo"
+  },
+  {
+    "id": 6,
+    "icon": "",
+    "name": "Garantia do Processo",
+    "description": "Todo processo seletivo tem garantia mínima de 90 dias."
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Desenvolvimento",
+    "description": "Desktop/Web: Java/C++, Ruby, PHP, React, VueJs, Angular, Mobile: Android, Kotlin, Ionic, Flutter"
+  },
+  {
+    "id": 2,
+    "name": "Infraestrutura e Operações",
+    "description": "Analista de Redes, Analista Cloud, Big Data Engineer, Especialista em Machine Learning, Agile Coach, Scrum Master, DBA SQL, DBA Oracle, Analista de Teste, Q.A, DevOps, entre outros."
+  },
+  {
+    "id": 3,
+    "name": "Executive Search",
+    "description": "CTO (Chief Technology Officer), CFO (Chief Financial Officer), CIO (Chief Information Officer), COO (Chief Operating Officer), CCO (Chief Compliance Officer), CKO (Chief Knowledge Officer), CSO (Chief Security Officer), CDO (Chief Data Officer), CMO (Chief Marketing Officer)."
+  },
+  {
+    "id": 4,
+    "name": "Vendas Tecnicas e Marketing",
+    "description": "Gerente de Negócios, Key Account, Sales Analyst, Analista de Vendas Internas, Gerente de Contas, B2B, Gerente de Grandes Contas, consultores de vendas (software, infraestrutura, redes)"
+  }
+]
